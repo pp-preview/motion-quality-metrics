@@ -1,9 +1,11 @@
 # Motion Quality Metrics
 
+Companion code for: **"Toward a Cross-Domain Taxonomy of Motion Quality Metrics"** (FG2026)
+
+
 ![The conceptual level with the four quality categories and their corresponding operational levels with indicative illustrations
 ](images/metrics_figure.png)
 
-Companion code for: **"Toward a Cross-Domain Taxonomy of Motion Quality Metrics"** (FG2026)
 
 ## Overview
 
