@@ -2,10 +2,10 @@
 
 Companion code for: **"Toward a Cross-Domain Taxonomy of Motion Quality Metrics"** (FG2026)
 
-## Overview
-
 ![The conceptual level with the four quality categories and their corresponding operational levels with indicative illustrations
 ](images/metrics_figure.png)
+
+## Overview
 
 This repository implements a comprehensive framework for computing motion quality metrics from BVH motion capture data, organized into four motion quality families:
 
