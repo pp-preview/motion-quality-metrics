@@ -4,15 +4,15 @@ Companion code for: **"Toward a Cross-Domain Taxonomy of Motion Quality Metrics"
 
 ## Overview
 
+![The conceptual level with the four quality categories and their corresponding operational levels with indicative illustrations
+](images/metrics_figure.png)
+
 This repository implements a comprehensive framework for computing motion quality metrics from BVH motion capture data, organized into four motion quality families:
 
 1. **Fluency** - Smoothness, coordination, and continuous flow
 2. **Balance & Symmetry** - Postural stability and bilateral coordination
 3. **Spatial Energy** - Movement amplitude and dynamic intensity
 4. **Variability & Consistency** - Reproducibility across contexts
-
-![The conceptual level with the four quality categories and their corresponding operational levels with indicative illustrations
-](images/metrics_figure.png)
 
 ## Project Structure
 
